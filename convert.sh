@@ -1,6 +1,6 @@
 #!/bin/bash
 
-size=(16 48 96 128)
+size=(8 16 32 48 64 96 128 256 1024)
 
 for i in ${size[@]}
 do
